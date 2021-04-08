@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Surya ",
+      "role": "User",
+      "password": "Surya@123",
+      "email": "Surya@gmail.com",
+      "phone": "9123548140",
+      "balance": 3500,
+      "currentbalance": 10500,
+      "pan": "6765784987",
+      "account": "678309864323",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 2,
+      "name": "Ramu ",
+      "role": "User",
+      "password": "Ramu@123",
+      "email": "Ramu@gmail.com",
+      "phone": "9076567764",
+      "balance": 378,
+      "currentbalance": 25678,
+      "pan": "6574654651",
+      "account": "678909565721",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 3,
+      "name": "Rajesh ",
+      "role": "User",
+      "password": "Rajesh@123",
+      "email": "Rajesh@gmail.com",
+      "phone": "8735427654",
+      "balance": 3500,
+      "currentbalance": 15030,
+      "pan": "7865443456",
+      "account": "198369876543",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 4,
+      "name": "Ramesh ",
+      "role": "User",
+      "password": "Ramesh@123",
+      "email": "Ramesh@gmail.com",
+      "phone": "9877321404",
+      "balance": 309,
+      "currentbalance": 500,
+      "pan": "9875455833",
+      "account": "135375633235",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 5,
+      "name": "Rithu ",
+      "role": "User",
+      "password": "Rithu@123",
+      "email": "Rithu@gmail.com",
+      "phone": "9354387876",
+      "balance": 1200,
+      "currentbalance": 15200,
+      "pan": "1298766533",
+      "account": "386653738387",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 6,
+      "name": "Karthi ",
+      "role": "Admin",
+      "password": "Karthi@123",
+      "email": "Karthi@gmail.com",
+      "phone": "8374765564",
+      "balance": 1409,
+      "currentbalance": 2400,
+      "pan": "6567689433",
+      "account": "678377383333",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 7,
+      "name": "Samantha ",
+      "role": "Admin",
+      "password": "Sam@123",
+      "email": "Samantha@gmail.com",
+      "phone": "8374766545",
+      "balance": 2000,
+      "currentbalance": 24006,
+      "pan": "7864537833",
+      "account": "987374673936",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "name": "Sreenivas",
+      "email": "Kurubasreenivasulu9386@gmail.com",
+      "password": "Sreenivas",
+      "phone": "7578657751",
+      "pan": "5476876876",
+      "role": "Admin",
+      "id": 8
+    },
+    {
+      "name": "Bavani",
+      "email": "Bavani@hcl.com",
+      "password": "Bavani",
+      "phone": "7981521564",
+      "pan": "5576333452",
+      "role": "Admin",
+      "id": 9
+    },
+    {
+      "name": "Aushka",
+      "email": "Anushka@gmail.com",
+      "password": "Anushka@143",
+      "phone": "6754356765",
+      "pan": "3527783876",
+      "role": "Admin",
+      "id": 10
+    }
+  ]
+}
