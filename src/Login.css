@@ -1,0 +1,15 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin-left: 20px;
+    
+  }
+  .separate{
+    margin-left: 100px;
+
+  }
+  h2{
+      color:brown;
+  }

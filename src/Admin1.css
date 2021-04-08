@@ -1,0 +1,17 @@
+table,th,td{
+    border:2px solid black;
+    padding :5px;
+    background-color: lightgray;
+}
+th{
+    font-size:18px;
+    font-weight: 800;
+    color: black;
+    background-color: lightgray;
+    
+}
+td{
+    font-size: 18px;
+    font-weight:300;
+    color: blue;
+}
